@@ -27,5 +27,5 @@ def quantidadeArquivoPorExtensao(pasta):
 
 print(quantidadeArquivoPorExtensao(pasta))
 
-# with open("pastas.txt" , 'w') as arq:
+# with open("pastas.txt" , 'w') as arq: #depois acrescentar uso do with
     
