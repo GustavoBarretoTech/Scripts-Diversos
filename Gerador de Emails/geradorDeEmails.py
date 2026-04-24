@@ -45,7 +45,7 @@ while confirmar != "4":
                 [ 1 ] Alterar quantidadade de emails - Atual:{quantidade}
                 [ 2 ] Alterar tipo de domínio - Atual:{tipo}
                 [ 3 ] Alterar tamanho do email - Atual:{tamanhoCarac}
-                [ 4 ] Concluir""")
+                [ 4 ] Concluir  """)
     
 print(gerarEmail(tamanho=tamanhoCarac ,quantidadeEmails=quantidade , tipoEmail=tipo))
     
